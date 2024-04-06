@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alsadiq-Ahmad
-- 👀 I’m interested in web development and mobile application development.
+- 👀 I’m interested in web development and cloud computing.
 - 🌱 I’m currently learning Laravel web framework
 - 📫 How to reach me in my email: alsadiqahmad1@gmail.com
 
