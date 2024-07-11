@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alsadiq-Ahmad
 - 👀 I’m interested in web development and cloud computing.
-- 🌱 I’m currently learning Laravel web framework
+- 🌱 I’m currently learning Vue web framework
 - 📫 How to reach me in my email: alsadiqahmad1@gmail.com
 
 <!---
