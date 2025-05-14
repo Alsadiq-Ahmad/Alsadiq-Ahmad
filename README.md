@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently interning as an **Associate Developer** at Trendyol Group, working on **cloud-native solutions** and **LLM-powered apps**.
 
-- 🌱 I’m currently learning **ASP.NET, Spring Boot, and Kubernetes** to enhance my backend expertise.
+- 🌱 I’m currently learning **Laravel, Spring Boot, and Kubernetes** to enhance my backend expertise.
 
 - 💡 Passionate about **Cloud Computing, DevOps, AI, and Backend Development**.
 
@@ -32,7 +32,6 @@
 ### Backend  
 <div align="center">  
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 </td><td valign="top" width="33%">
