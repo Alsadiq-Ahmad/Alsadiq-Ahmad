@@ -31,9 +31,19 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" height="50" />
+</a>  
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" height="50" />
+</a>  
+<a href="https://www.python.org/" target="_blank">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" />
+</a>  
 </div>
+
+
+
 </td><td valign="top" width="33%">
 
 ### DevOps & Cloud  
