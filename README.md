@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ahmad Alsadiq, a Full-Stack Developer and Cloud Engineer 🚀</div>  
   
 
-- 🔭 I’m currently interning as an **Associate Developer** at Trendyol Group, working on **cloud-native solutions** and **LLM-powered apps**.
+- 🔭 I’m currently interning as an **Software Engineer** at webook.com
 
 - 🌱 I’m currently learning **Laravel, Spring Boot, and Kubernetes** to enhance my backend expertise.
 
